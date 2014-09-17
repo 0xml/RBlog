@@ -26,3 +26,6 @@ pickle-email-*.html
 *.bowerrc
 bower.json
 .secret
+*.swp
+*.swo
+
